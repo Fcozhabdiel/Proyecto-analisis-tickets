@@ -1,7 +1,7 @@
 # Proyecto-analisis-tickets
 Proyecto de Desarrollo Tecnológico
 
-#Sistema de Análisis de tickets de Soporte TI
+##Sistema de Análisis de tickets de Soporte TI
 
 #El objetivo de este proyecto es el desarrollo de una app web para el análisis de tickets para el area de TI de Grupo SC Automotriz.
 
