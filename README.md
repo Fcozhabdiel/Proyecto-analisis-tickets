@@ -21,4 +21,5 @@ Sistema de Análisis de tickets de Soporte TI
 - Identificar patrones en incidencias
 
 #Se adjunta el documento completo del anteproyecto en la carpeta de documentos
+
 #El proyecto se encuentra en fase de planeacion, por lo que será parte del proceso para las practicas profesionales
